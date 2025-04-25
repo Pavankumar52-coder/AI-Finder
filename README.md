@@ -30,3 +30,8 @@ Generally now-a-days people are struggling with different types of people who hh
 5. first run the database file, next run the vector/embeddings file
 6. Now run the backend file and frontend file
 7. visit browser where the streamit ui is running and to test this application.
+   
+## Deployment
+-> We can deploy it using different cloud platforms like Hugging Faces, Heroku, Netlify e.t.c...
+-> I can deploy this application using hugging faces by creating space, uploading code files and click ok.
+-> The application will run.
